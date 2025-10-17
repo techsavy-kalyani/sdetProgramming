@@ -1,0 +1,21 @@
+{
+  "name": "codingassignment",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "**📘 Programming Fundamentals & Automation Concepts – Assignment**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techsavy-kalyani/sdetProgramming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techsavy-kalyani/sdetProgramming/issues"
+  },
+  "homepage": "https://github.com/techsavy-kalyani/sdetProgramming#readme"
+}
