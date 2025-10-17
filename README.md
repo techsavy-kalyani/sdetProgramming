@@ -1,4 +1,4 @@
-# sdetProgramming
+# SDET Programming
 
 **📘 Programming Fundamentals & Automation Concepts – Assignment**
 
